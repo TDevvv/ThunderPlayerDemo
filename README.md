@@ -1,4 +1,4 @@
-# ThunderPlayer
+# ThunderPlayerDemo
 ///Java MP3 player///
 
 Its a Simple Java Mp3 Player Named ThunderPlayer
